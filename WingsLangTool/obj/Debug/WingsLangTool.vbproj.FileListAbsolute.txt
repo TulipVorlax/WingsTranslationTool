@@ -1,0 +1,9 @@
+D:\TulipVorlax\Documents\Mes programmes\Projets OpenCode\OutilTraductionWings\WingsLangTool\bin\Debug\WingsLangTool.exe
+D:\TulipVorlax\Documents\Mes programmes\Projets OpenCode\OutilTraductionWings\WingsLangTool\bin\Debug\WingsLangTool.pdb
+D:\TulipVorlax\Documents\Mes programmes\Projets OpenCode\OutilTraductionWings\WingsLangTool\bin\Debug\WingsLangCore.dll
+D:\TulipVorlax\Documents\Mes programmes\Projets OpenCode\OutilTraductionWings\WingsLangTool\obj\Debug\WingsLangTool.vbproj.AssemblyReference.cache
+D:\TulipVorlax\Documents\Mes programmes\Projets OpenCode\OutilTraductionWings\WingsLangTool\obj\Debug\WingsLangTool.vbproj.CoreCompileInputs.cache
+D:\TulipVorlax\Documents\Mes programmes\Projets OpenCode\OutilTraductionWings\WingsLangTool\obj\Debug\WingsLan.576BB3B7.Up2Date
+D:\TulipVorlax\Documents\Mes programmes\Projets OpenCode\OutilTraductionWings\WingsLangTool\obj\Debug\WingsLangTool.exe
+D:\TulipVorlax\Documents\Mes programmes\Projets OpenCode\OutilTraductionWings\WingsLangTool\obj\Debug\WingsLangTool.pdb
+D:\TulipVorlax\Documents\Mes programmes\Projets OpenCode\OutilTraductionWings\WingsLangTool\bin\Debug\lang\fr.txt

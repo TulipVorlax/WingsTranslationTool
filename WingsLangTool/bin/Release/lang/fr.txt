@@ -1,0 +1,155 @@
+# WingsLangTool - French translation
+# Format: english key = french text (UTF-8, one entry per line).
+# Lines starting with # are comments. English needs no file: keys ARE the English text.
+
+# Main window
+Wings 3D Translation Comparison Tool=Outil de comparaison de traduction Wings 3D
+Open a languages folder: File → Open Folder…=Ouvrez un dossier de langues : menu Fichier → « Ouvrir un dossier… »
+
+# Filters
+All=Tout
+Missing=Manquantes
+Different=Différentes
+Identical=Identiques
+Only in target=Uniquement cible
+Moved order=Ordre déplacé
+Search:=Chercher :
+Colors: red missing · orange different · gray identical · blue only in target=Couleurs : rouge = manquante · orange = différente · gris = identique · bleu = uniquement cible
+
+# Detail panel
+Entry details=Détail de l'entrée
+Copy reference → target=Copier référence → cible
+Complete Target from Reference=Compléter la cible depuis la référence
+Reference (read-only)=Référence (lecture seule)
+Translation (editable, applied when the field loses focus)=Traduction (modifiable, appliquée à la sortie du champ)
+Module {0}=Module {0}
+Group=Groupe
+Group status: {0}=Statut : {0}
+Group: {0}=Groupe : {0}
+groups: {0} entry(ies)=groupes : {0} entrée(s)
+group(s) displayed: {0}={0} groupe(s) affiché(s)
+Group order different from reference=Ordre des groupes différent de la référence
+Same order=Ordre identique
+reference line {0}=ligne référence {0}
+target line {0}=ligne cible {0}
+Reference value: {0}=Référence : {0}
+Target value: {0}=Cible     : {0}
+Reference: {0}=Référence : {0}
+Target: {0}=Cible : {0}
+Identical entry=Identique
+Different entry=Différente
+Missing entry=Manquante
+Missing group=Manquant
+Common=Commun
+
+# Menus
+File=Fichier
+Open Languages Folder…=Ouvrir un dossier de langues…
+Load File to Translate…=Charger le fichier à traduire…
+Load Reference File…=Charger le fichier de référence…
+Save Translated File=Enregistrer le fichier à traduire
+Save Translated File As…=Enregistrer le fichier à traduire sous…
+Export Text Report…=Exporter le rapport texte…
+Exit=Quitter
+Tools=Outils
+Copy Reference → Target (Current Entry)=Copier référence → cible (entrée courante)
+Recompare=Recomparer
+Settings…=Paramètres…
+Help=Aide
+About…=À propos…
+About=À propos
+
+# Actions and messages
+No file to translate loaded.=Aucun fichier à traduire chargé.
+Save=Enregistrer
+Could not save:=Impossible d'enregistrer :
+The file may be in a protected folder: use "Save As…" to save to an accessible location.=Le fichier se trouve peut-être dans un dossier protégé : utilisez « Enregistrer sous » vers un emplacement accessible.
+Save Error=Erreur d'enregistrement
+Saved: {0}=Enregistré : {0}
+Saved: {0}   ·   backup: {1}=Enregistré : {0}   ·   sauvegarde : {1}
+Lang files (*.lang)|*.lang=Fichiers .lang (*.lang)|*.lang
+translation.lang=traduction.lang
+Compare files first (File menu).=Comparez d'abord des fichiers (menu Fichier).
+Export Report=Exporter le rapport
+Text files (*.txt)|*.txt=Texte (*.txt)|*.txt
+translation_report.txt=rapport_traduction.txt
+Report written: {0}=Rapport écrit : {0}
+No .lang file found in this folder.=Aucun fichier .lang trouvé dans ce dossier.
+No File Found=Aucun fichier trouvé
+Choose two different files (reference and translation).=Choisissez deux fichiers différents (référence et traduction).
+Selection=Sélection
+Choose the reference file=Choisir le fichier de référence
+Choose the file to translate=Choisir le fichier à traduire
+Lang files (*.lang)|*.lang|All files (*.*)|*.*=Fichiers .lang (*.lang)|*.lang|Tous les fichiers (*.*)|*.*
+Reference: {0}   ·   Target: {1}=Référence : {0}   ·   Cible : {1}
+Load error: {0}=Erreur de chargement : {0}
+Error=Erreur
+This entry has no match in the reference.=Cette entrée n'a pas de correspondance dans la référence.
+Copy=Copier
+Could not copy: {0}=Impossible de copier : {0}
+Could not apply: {0}=Impossible d'appliquer : {0}
+Editing=Édition
+Load the reference and translation files first.=Chargez d'abord les fichiers de référence et à traduire.
+Complete Target=Compléter la cible
+Done: {0} entry(ies) added to the translation file.=Terminé : {0} entrée(s) ajoutée(s) au fichier à traduire.
+Remember to save (Ctrl+S).=Pensez à enregistrer (Ctrl+S).
+The translation file contains unsaved changes.=Le fichier à traduire contient des modifications non enregistrées.
+Quit without saving?=Les quitter sans enregistrer ?
+Unsaved changes=Modifications non enregistrées
+— no file loaded —=— aucun fichier chargé —
+
+# Open folder dialog
+Wings 3D folder detected: {0}=Dossier Wings 3D détecté : {0}
+Choose the folder containing the .lang files (usually {0}\lib\wings-{1}).=Choisissez le dossier contenant les fichiers .lang (en général {0}\lib\wings-{1}).
+Choose the folder containing the .lang files (e.g. ...\wings3d_2.4.1\lib\wings-2.4.1)=Choisissez le dossier contenant les fichiers .lang (ex. ...\wings3d_2.4.1\lib\wings-2.4.1)
+
+# Text report
+Translation comparison report (reference -> target)=Rapport de comparaison de traduction Wings 3D (référence -> cible)
+Generated {0}=Généré le {0}
+Summary:=Résumé :
+Entries (reference): {0}=Entrées (référence)   : {0}
+Entries (target): {0}=Entrées (cible)       : {0}
+Identical: {0}   (check if intentional)=Identiques            : {0}   (à vérifier : peut être volontaire)
+Different: {0}=Différentes           : {0}
+Missing in target: {0}=Manquantes en cible   : {0}
+Only in target: {0}=Uniquement en cible   : {0}
+Missing groups: {0}=Groupes manquants     : {0}
+Groups only in target: {0}=Groupes uniquement cible : {0}
+Missing modules: {0}=Modules manquants     : {0}
+Module {0}{1}  (reference line {2}{3})=Module {0}{1}  (référence ligne {2}{3})
+[ORDER DIFFERENT]=[ORDRE DIFFÉRENT]
+, target line {0}=, cible ligne {0}
+Group {0}  ({1})=Groupe {0}  ({1})
+- {0} [{1}]=- {0} [{1}]
+reference (line {0}): {1}=référence (ligne {0}) : {1}
+target (line {0}): {1}=cible (ligne {0}) : {1}
+(empty)=(vide)
+
+# Status bar counts
+Identical: {0}    Different: {1}    Missing: {2}    Only in target: {3}    Moved order: {4} module(s)    Reference: {5} / Target: {6}=Identiques : {0}    Différentes : {1}    Manquantes : {2}    Uniquement cible : {3}    Ordre déplacé : {4} module(s)    Référence : {5} / Cible : {6}
+
+# About
+Wings 3D translation comparison tool, usable for any language (reference -> translation)=Outil de comparaison de traduction Wings 3D, utilisable pour toute langue (référence → traduction)
+Core: WingsLangCore (Erlang .lang parser, exact round-trip)=Noyau : WingsLangCore (parseur .lang d'Erlang, round-trip exact)
+UI: VB.NET WinForms=Interface : VB.NET WinForms
+
+# Start-up
+Error at startup:=Erreur au démarrage :
+WingsLangTool=WingsLangTool
+
+# Pair dialog
+Choose the file pair=Choisir la paire de fichiers
+Reference file (usually the English version):=Fichier de référence (généralement la version anglaise) :
+File to translate (the language you are working on):=Fichier à traduire (la langue à retravailler) :
+Cancel=Annuler
+
+# Settings dialog
+Settings=Paramètres
+Backups=Sauvegardes
+Create a backup before saving=Créer une sauvegarde avant enregistrement
+Maximum number of backups kept:=Nombre maximal de sauvegardes conservées :
+Backup folder:=Dossier de sauvegarde :
+Browse…=Parcourir…
+Choose the backup folder (leave empty for the backups_WingsLangTool folder next to the file)=Choisissez le dossier de sauvegarde (laisser vide = dossier « backups_WingsLangTool » à côté du fichier)
+Language=Langue
+Interface language:=Langue de l'interface :

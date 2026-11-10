@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TulipVorlax\\Documents\\Mes programmes\\Projets OpenCode\\OutilTraductionWings\\WingsLangTool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B0B2D9-6C44-4E9A-9C34-4A8E1F5D2F70}|WingsLangTool.vbproj|d:\\tulipvorlax\\documents\\mes programmes\\projets opencode\\outiltraductionwings\\wingslangtool\\frmsettings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C4B0B2D9-6C44-4E9A-9C34-4A8E1F5D2F70}|WingsLangTool.vbproj|solutionrelative:frmsettings.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmSettings.vb [Design]",
+              "DocumentMoniker": "D:\\TulipVorlax\\Documents\\Mes programmes\\Projets OpenCode\\OutilTraductionWings\\WingsLangTool\\frmSettings.vb",
+              "RelativeDocumentMoniker": "frmSettings.vb",
+              "ToolTip": "D:\\TulipVorlax\\Documents\\Mes programmes\\Projets OpenCode\\OutilTraductionWings\\WingsLangTool\\frmSettings.vb [Design]",
+              "RelativeToolTip": "frmSettings.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-12T00:37:39.134Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
